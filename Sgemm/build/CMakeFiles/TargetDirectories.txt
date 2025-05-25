@@ -1,0 +1,3 @@
+/home/wenze/source/CUDA_Learing_Notes/Sgemm/build/CMakeFiles/sgemm-main.dir
+/home/wenze/source/CUDA_Learing_Notes/Sgemm/build/CMakeFiles/edit_cache.dir
+/home/wenze/source/CUDA_Learing_Notes/Sgemm/build/CMakeFiles/rebuild_cache.dir
