@@ -1,0 +1,3 @@
+/home/wenze/source/FlashAttention/build/CMakeFiles/flash-atten-main.dir
+/home/wenze/source/FlashAttention/build/CMakeFiles/edit_cache.dir
+/home/wenze/source/FlashAttention/build/CMakeFiles/rebuild_cache.dir

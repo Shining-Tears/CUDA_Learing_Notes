@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "CUDA C++: Launch",
+            "type": "cuda-gdb",  // 使用 CUDA-GDB 适配器
+            "request": "launch",
+            "program": "/home/wenze/source/FlashAttention/build/flash-atten-main",  // 替换为你的可执行文件路径
+            "preLaunchTask": "CMake: configure"
+        },
+        {
+            "name": "CUDA C++: Attach",
+            "type": "cuda-gdb",
+            "request": "attach"
+        }
+    ]
+}
